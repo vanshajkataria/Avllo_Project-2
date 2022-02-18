@@ -16,6 +16,9 @@ main {
   overflow-x: auto;
   overflow-y: hidden;
 }
+.container-fluid{
+  padding: 0;
+}
 
 .clogo{
   height: 32px;
@@ -28,4 +31,13 @@ main {
 
 .nav-pills{
   margin-bottom: auto;
+}
+
+.greet{
+  color: white;
+  padding: 2px;
+}
+
+.content{
+  padding: 50px 0 0 50px;
 }
