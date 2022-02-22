@@ -21,13 +21,18 @@ main {
 }
 
 .clogo{
-  height: 32px;
-  width: 32px;
+  height: 80px;
+  width: 80px;
+  align-content: center;
+  margin: auto;
 }
 .sb{
   padding-left: 25px;
 }
 
+.nav-link{
+  color: white;
+}
 
 .nav-pills{
   margin-bottom: auto;
@@ -36,6 +41,8 @@ main {
 .greet{
   color: white;
   padding: 2px;
+  align-content: center;
+  margin: auto;
 }
 
 .content{
